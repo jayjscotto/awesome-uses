@@ -1003,6 +1003,26 @@ module.exports = [
     ],
   },
   {
+    name: 'Jason Scotto',
+    description: 'Web Developer, Full Time Learner',
+    url: 'https://jasonscotto.com',
+    emoji: '🏄‍♂️',
+    country: '🇺🇸',
+    computer: 'apple',
+    phone: 'android',
+    twitter: '@JasonScotto',
+    tags: [
+      'Developer',
+      'Front End',
+      'JavaScript',
+      'Node',
+      'React',
+      'Express',
+      'CSS',
+      'Databases'
+    ],
+  },
+  {
     name: 'Anton Andrésen',
     description: 'Software Engineer, Tutorial Maker, Youtuber, Tea Drinker',
     url: 'https://anton.best/uses/',
